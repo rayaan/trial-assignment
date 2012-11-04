@@ -1,2 +1,3 @@
 trial version of git gui.
 i am trying to learn it.
+it seems to be tough enough!!!
