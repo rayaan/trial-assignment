@@ -1,1 +1,2 @@
 trial version of git gui.
+i am trying to learn it.
